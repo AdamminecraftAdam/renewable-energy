@@ -1,0 +1,12 @@
+body{
+    background-image:url(vsco.jpg);
+    background-size: auto;
+
+
+}
+button{
+    color: blue;
+    background-color: rgb(255, 0, 0);
+    padding: 20px 34px;
+    text-size-adjust: 27px ;
+}
